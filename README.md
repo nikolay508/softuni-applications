@@ -6,7 +6,7 @@ This repository contains all the exercise exams and the real exam I completed du
 Throughout the course, I gained a deep understanding of:
 
 HTTP Requests: Understanding and utilizing HTTP requests to interact with APIs.<br>
-REST Services: Working with RESTful APIs and understanding Backend-as-a-Service (BaaS).<br>
+REST Services: Working with RESTful APIs and understanding BaaS.<br>
 Asynchronous JavaScript: Writing efficient asynchronous code using Promises and async/await.<br>
 Templating & Routing: Implementing dynamic content rendering and client-side routing in SPA.<br>
 Application Architecture: Learning how to properly structure and design JavaScript applications.<br>
