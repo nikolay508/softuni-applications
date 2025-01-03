@@ -8,7 +8,7 @@ Throughout the course, I gained a deep understanding of:
 HTTP Requests: Understanding and utilizing HTTP requests to interact with APIs.<br>
 REST Services: Working with RESTful APIs and understanding Backend-as-a-Service (BaaS).<br>
 Asynchronous JavaScript: Writing efficient asynchronous code using Promises and async/await.<br>
-Templating & Routing: Implementing dynamic content rendering and client-side routing in Single Page Applications (SPA).<br>
+Templating & Routing: Implementing dynamic content rendering and client-side routing in SPA.<br>
 Application Architecture: Learning how to properly structure and design JavaScript applications.<br>
 Web Components: Creating custom web components following the Web Components standard.<br>
 Webpack: Setting up a Webpack environment from scratch for modular application development.<br>
